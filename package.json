@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/HurricanoBot/config/issues"
   },
-  "homepage": "https://github.com/HurricanoBot/config#readme"
+  "homepage": "https://github.com/HurricanoBot/config#readme",
+  "publishConfig": {
+      "access": "public"
+  }
 }

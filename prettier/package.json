@@ -1,0 +1,33 @@
+{
+  "name": "@hurricano/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration for Hurricano projects",
+  "main": "./.prettierrc.json",
+  "author": "@hurricano",
+  "license": "MIT",
+  "exports": {
+      ".": {
+        "import": "./.prettierrc.json",
+        "require": "./.prettierrc.json"
+    }
+  },
+  "engine": {
+      "node": ">=16.0.0",
+      "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HurricanoBot/config.git"
+  },
+  "keywords": [
+    "hurricano",
+    "config",
+    "prettier",
+    "prettier config",
+    "prettierrc"
+  ],
+  "bugs": {
+    "url": "https://github.com/HurricanoBot/config/issues"
+  },
+  "homepage": "https://github.com/HurricanoBot/config#readme"
+}

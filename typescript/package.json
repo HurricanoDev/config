@@ -1,33 +1,33 @@
 {
-  "name": "@hurricano/ts-config",
-  "version": "1.0.0",
-  "description": "TypeScript configuration for Hurricano projects",
-  "main": "tsconfig.json",
-  "author": "@hurricano",
-  "license": "MIT",
-  "exports": {
-      ".": {
-        "import": "./tsconfig.json",
-        "require": "./tsconfig.json"
-    }
-  },
-  "engine": {
-      "node": ">=16.0.0",
-      "npm": ">=8.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HurricanoBot/config.git"
-  },
-  "keywords": [
-    "hurricano",
-    "config",
-    "tsconfig",
-    "typescript",
-    "typescript config"
-  ],
-  "bugs": {
-    "url": "https://github.com/HurricanoBot/config/issues"
-  },
-  "homepage": "https://github.com/HurricanoBot/config#readme"
+	"name": "@hurricano/ts-config",
+	"version": "1.0.0",
+	"description": "TypeScript configuration for Hurricano projects",
+	"main": "tsconfig.json",
+	"author": "@hurricano",
+	"license": "MIT",
+	"exports": {
+		".": {
+			"import": "./tsconfig.json",
+			"require": "./tsconfig.json"
+		}
+	},
+	"engine": {
+		"node": ">=16.0.0",
+		"npm": ">=8.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/HurricanoBot/config.git"
+	},
+	"keywords": [
+		"hurricano",
+		"config",
+		"tsconfig",
+		"typescript",
+		"typescript config"
+	],
+	"bugs": {
+		"url": "https://github.com/HurricanoBot/config/issues"
+	},
+	"homepage": "https://github.com/HurricanoBot/config#readme"
 }

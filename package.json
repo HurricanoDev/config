@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HurricanoBot/config.git"
+    "url": "git+https://github.com/HurricanoDev/config.git"
   },
   "keywords": [
     "hurricano",
@@ -25,9 +25,9 @@
     "x"
   ],
   "bugs": {
-    "url": "https://github.com/HurricanoBot/config/issues"
+    "url": "https://github.com/HurricanoDev/config/issues"
   },
-  "homepage": "https://github.com/HurricanoBot/config#readme",
+  "homepage": "https://github.com/HurricanoDev/config#readme",
   "publishConfig": {
       "access": "public"
   }

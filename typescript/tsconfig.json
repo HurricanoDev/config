@@ -15,7 +15,6 @@
 
 		/* Modules */
 		"module": "ESNext",
-		"rootDir": "./src",
 		"moduleResolution": "Node",
 		"resolveJsonModule": true,
 
@@ -23,7 +22,6 @@
 		"declaration": true,
 		"declarationMap": true,
 		"sourceMap": true,
-		"outDir": "./dist",
 		"removeComments": false,
 		"importHelpers": false,
 		"importsNotUsedAsValues": "error",

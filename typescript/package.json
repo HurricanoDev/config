@@ -1,6 +1,6 @@
 {
 	"name": "@hurricano/ts-config",
-	"version": "1.1",
+	"version": "1.1.0",
 	"description": "TypeScript configuration for Hurricano projects",
 	"main": "tsconfig.json",
 	"author": "@hurricano",

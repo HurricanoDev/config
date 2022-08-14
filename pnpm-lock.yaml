@@ -1,0 +1,12 @@
+lockfileVersion: 5.3
+
+specifiers:
+    "@hurricano/prettier-config": ^1.0.1
+
+dependencies:
+    "@hurricano/prettier-config": 1.0.1
+
+packages:
+    /@hurricano/prettier-config/1.0.1:
+        resolution: { integrity: sha512-X22LkkNthzE1eg/+w1551SBWUuFNjT924FrgJ1zUgxzdQJsc73SJozeMbsnWWTRtZh7Y0dRIOappmquRkIjE0A== }
+        dev: false

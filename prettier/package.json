@@ -18,7 +18,7 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/HurricanoDev/config.git",
-        "directory": "prettier"
+		"directory": "prettier"
 	},
 	"keywords": [
 		"hurricano",
@@ -31,7 +31,7 @@
 		"url": "https://github.com/HurricanoDev/config/issues"
 	},
 	"homepage": "https://github.com/HurricanoDev/config#readme",
-    "publishConfig": {
-        "access": "public"
-    }
+	"publishConfig": {
+		"access": "public"
+	}
 }

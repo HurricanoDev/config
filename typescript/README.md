@@ -6,7 +6,7 @@ First install the package - `npm i --save-dev @hurricano/ts-config`, and then ad
 
 ```json
 {
-	"extends": "@hurricano/ts-config"
+  "extends": "@hurricano/ts-config"
 }
 ```
 

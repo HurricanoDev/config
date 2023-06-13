@@ -15,7 +15,8 @@
 
 		/* Modules */
 		"module": "ESNext",
-		"moduleResolution": "Node",
+		"moduleResolution": "NodeNext",
+		"moduleDetection": "auto",
 		"resolveJsonModule": true,
 
 		/* Emit */
@@ -24,13 +25,13 @@
 		"sourceMap": true,
 		"removeComments": false,
 		"importHelpers": false,
-		"importsNotUsedAsValues": "error",
 		"newLine": "lf",
 		"preserveConstEnums": true,
 
 		/* Interop Constraints */
 		"allowSyntheticDefaultImports": true,
 		"esModuleInterop": true,
+		"verbatimModuleSyntax": true,
 		"forceConsistentCasingInFileNames": true,
 
 		/* Type Checking */

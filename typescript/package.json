@@ -1,6 +1,6 @@
 {
 	"name": "@hurricano/ts-config",
-	"version": "1.1",
+	"version": "1.2.0",
 	"description": "TypeScript configuration for Hurricano projects",
 	"main": "tsconfig.json",
 	"author": "@hurricano",
@@ -33,5 +33,8 @@
 	"homepage": "https://github.com/HurricanoDev/config#readme",
 	"publishConfig": {
 		"access": "public"
+	},
+	"devDependencies": {
+		"typescript": "^5.1.3"
 	}
 }
